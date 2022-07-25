@@ -1,4 +1,4 @@
-# Estudos.App.Angular.Ifood
+# Clonde do app Ifood com Angular 14
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
